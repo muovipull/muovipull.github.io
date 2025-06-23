@@ -1,0 +1,7 @@
+v 2.7.9
+Korjaukset
+- tallennettujen salasanoijen kopiointi
+- tallennettujen sähköpostien kopiointi
+- satunaisen salasanan kopiointi
+- Bugien korjauksia
+- Ohjeiden päivittäminen
