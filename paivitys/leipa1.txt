@@ -5,3 +5,7 @@ Korjaukset
 - satunaisen salasanan kopiointi
 - Bugien korjauksia
 - Ohjeiden päivittäminen
+
+v.2.7.9.1
+- Näytön skaalaus oikein
+- ominaisuuksia ladataan netistä
