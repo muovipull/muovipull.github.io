@@ -1,11 +1,15 @@
 v 2.7.9
 Korjaukset
-- tallennettujen salasanoijen kopiointi
+- tallennettujen salasanojen kopiointi
 - tallennettujen sähköpostien kopiointi
 - satunaisen salasanan kopiointi
 - Bugien korjauksia
 - Ohjeiden päivittäminen
 
-v.2.7.9.1
+v 2.7.9.1
 - Näytön skaalaus oikein
 - ominaisuuksia ladataan netistä
+
+v 2.7.9.2
+- Bugien korjauksia
+- Tietoturvapäivitys
