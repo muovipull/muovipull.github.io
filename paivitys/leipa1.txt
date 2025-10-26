@@ -1,15 +1,5 @@
-v 2.7.9
-Korjaukset
-- tallennettujen salasanojen kopiointi
-- tallennettujen sähköpostien kopiointi
-- satunaisen salasanan kopiointi
-- Bugien korjauksia
-- Ohjeiden päivittäminen
-
-v 2.7.9.1
-- Näytön skaalaus oikein
-- ominaisuuksia ladataan netistä
-
-v 2.7.9.2
-- Bugien korjauksia
-- Tietoturvapäivitys
+v2.8
+- tietojen synkronointi usean laitteen välillä
+- uusi asetuksia
+- tallennetut salasanat ladataan palvelimelta
+- sovelluksen tietoturvaa on lisätty
