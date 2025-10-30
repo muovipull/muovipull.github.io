@@ -1,5 +1,8 @@
-v2.8
+v2.8.0
 - tietojen synkronointi usean laitteen välillä
 - uusi asetuksia
 - tallennetut salasanat ladataan palvelimelta
 - sovelluksen tietoturvaa on lisätty
+v2.8.1
+- salansan tallennukseen voi luada suaraan satunnaisen salasanan
+- bugien korjauksia
