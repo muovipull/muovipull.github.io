@@ -4,10 +4,17 @@ v2.8.0
 - tallennetut salasanat ladataan palvelimelta
 - sovelluksen tietoturvaa on lisätty
 v2.8.0.1
-- salansan tallennukseen voi luada suaraan satunnaisen salasanan
+- salansan tallennukseen voi luoda suoraan satunnaisen salasanan
 - bugien korjauksia
 v2.8.0.2
 - sovelluksen tietoturvaa on lisätty
 v2.8.0.3
 - version pystyy nyt piilottamaan
 - salasanan tallennus on saanut päivityksen
+v2.8.0.4
+- Suuri ui päivitys salasanoihin ja asetuksiin
+v2.8.0.4.1
+- tietosuojan korjaus
+v2.8.0.5
+- tiedot tallentuu nyt myös omalle laitteelle ja nettiin.
+- bugien korjauksia 
