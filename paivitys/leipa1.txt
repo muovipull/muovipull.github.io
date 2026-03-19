@@ -1,4 +1,4 @@
-v2.9.0
+v2.8.1
 - tietojen synkronointi usean laitteen välillä mahdollista nyt myös qr koodilla
 - uusi asetuksia
 - tallennetut salasanat ladataan palvelimelta tai laitteelta riippuen yhteydestä
