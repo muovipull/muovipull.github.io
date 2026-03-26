@@ -1,7 +1,12 @@
-v2.8.1
+v2.8.1.0
 - tietojen synkronointi usean laitteen välillä mahdollista nyt myös qr koodilla
 - uusi asetuksia
 - tallennetut salasanat ladataan palvelimelta tai laitteelta riippuen yhteydestä
 - sovelluksen tietoturvaa on lisätty
 - Teema on muuttunut mustasta tumman harmaaksi
-- Painikkieden ulkoasu on muutunut osassa paikassa
+- käyttöliittymän ulkoasu on muutunut osassa paikassa
+v2.8.1.1
+- pinkoodi, varapinkoodi, kaksivaiheinen tunnistautuminen, kaksivaiheinen tunnistautuminen varakoodi sirtyy laitteesta toiseen kun siirrän salasan
+- käyttöliittymän ulkoasu on päivitetty kaksivaiheisen tunnistautumisen asetukssa
+- Salasojen poistaminen on korjattu toimivaksi
+- Verkkosivun tuki on poistettu
