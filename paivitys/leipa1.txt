@@ -10,3 +10,5 @@ v2.8.1.1
 - käyttöliittymän ulkoasu on päivitetty kaksivaiheisen tunnistautumisen asetukssa
 - Salasojen poistaminen on korjattu toimivaksi
 - Verkkosivun tuki on poistettu
+v 2.8.1.2
+- Käyttöliittymän ulkoasu on muutettu samanlaiseksi kaikkialle
