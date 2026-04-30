@@ -12,3 +12,7 @@ v2.8.1.1
 - Verkkosivun tuki on poistettu
 v 2.8.1.2
 - Käyttöliittymän ulkoasu on muutettu samanlaiseksi kaikkialle
+v. 2.8.1.3
+- kirjautumis sivuissa on korjattu enter näppäimen toimivuus eteenpäin liikkumiseen.
+- Ohjeet ovat päivitetty uuteen versioon ja latautuvat netistä ensimmäisellä sovelluksen avauskeralla
+- Ulkoasua on yhtenäistetty eri sivujen välillä
